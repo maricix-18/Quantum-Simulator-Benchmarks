@@ -1,0 +1,2 @@
+Data for the RQC are taken from: https://datadryad.org/dataset/doi:10.5061/dryad.k6t1rj8#usage
+Current qubit valuea: 24 - 42
